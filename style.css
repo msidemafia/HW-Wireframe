@@ -11,7 +11,7 @@ Body {
     background:#ebebeb;
     text-align:center;
     padding:10px;
-    margin-bottom:10px;
+    margin-bottom:8px;
 }
 
 nav {
@@ -28,7 +28,7 @@ section {
     float:left;
     padding:5px;
     display:block;
-    margin-bottom:20px;
+    margin-bottom:15px;
 }
 
 .header2 {
@@ -40,20 +40,20 @@ section {
 
 aside {
     background:#ebebeb;
-    width:450px;
     text-align:center;
     float:left;
-    padding:10px;
-    margin-left:5px;
+    padding:20px;
+    margin-left:15px;
     display:block;
+    width:400px;
+    height:220px;
 }
 
 footer {
     background:#ebebeb;
     text-align:center;
     clear:both;
-    margin-top:50px;
-    padding:10px;
+    padding:30px;
 }
 article {
     color:#ebebeb;
@@ -67,4 +67,8 @@ article {
 h1, p, {
     color:#777;
     background:#ebebeb;
+}
+
+h1 {
+    font-size:17px;
 }
